@@ -1,3 +1,3 @@
-TSIS1 project
-Creator: Kultyshev Artur
-Project: Phonebook
+Repository for GO lessons
+Artur Kultyshev 
+ID: 22B030554
