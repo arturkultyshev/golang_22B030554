@@ -1,4 +1,4 @@
-package handlers
+package main
 
 import (
 	"encoding/json"
@@ -7,8 +7,7 @@ import (
 	"log"
 	"net/http"
 	"strings"
-	"tsis1/api"
-	_ "tsis1/api"
+	"tsis1/pkg/phonebook"
 )
 
 func Home(w http.ResponseWriter, r *http.Request) {
